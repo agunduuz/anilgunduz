@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://necmttn.com">Neco</a>.<br> I'm a Senior Full-stack, full time nomad.<br><br>#typescript, #golang, #serverless,  #chatbot </samp>
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/anilgunduuz/">Anıl</a>.<br> I'm a Front-End Developer, full time a person.<br><br>#html, #css, #javascript and LOADING... </samp>
   <br>
   <br>
   <br>
